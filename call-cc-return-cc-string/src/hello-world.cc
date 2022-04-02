@@ -4,7 +4,6 @@
 
 namespace demo
 {
-
   using std::string;
   using std::unique_ptr;
 
